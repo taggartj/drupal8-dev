@@ -8,7 +8,8 @@
         "wikimedia/composer-merge-plugin": "~1.4",
         "drupal/console": "~1.0",
         "drupal/admin_toolbar": "^1.20",
-        "symfony/var-dumper": "^3.3"
+        "symfony/var-dumper": "^3.3",
+        "drupal/paragraphs": "^1.1"
     },
     "replace": {
         "drupal/core": "~8.3"
